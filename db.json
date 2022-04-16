@@ -1,3 +1,28 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "Matias Gabriel",
+      "empresa": "adsaads",
+      "email": "marietajs@yahoo.com.ar",
+      "telefono": "03815868880",
+      "notas": "aaaaaaaaaa11",
+      "id": 1
+    },
+    {
+      "nombre": "Matias Sfer",
+      "empresa": "adsaads",
+      "email": "marietajs@yahoo.com.ar",
+      "telefono": "03815868880",
+      "notas": "aaaaaaaaaa22",
+      "id": 1
+    },
+    {
+      "nombre": "Matias Gabriel Sfer",
+      "empresa": "adsaads",
+      "email": "marietajs@yahoo.com.ar",
+      "telefono": "03815868880",
+      "notas": "aaaaaaaaaa33",
+      "id": 1
+    }
+  ]
 }
