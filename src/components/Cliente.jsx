@@ -26,13 +26,13 @@ const Cliente = ({cliente, handleEliminar}) => {
           <button 
               className='mt-3 bg-btnver hover:bg-btnverhover block w-full text-white p-2 rounded-md uppercase font-bold text-xs' 
               type='button'
-              onClick={() => navigate(`/clientes/${id}`)}
+              onClick={() => navigate(`/${id}`)}
             >Ver Cliente</button>
 
           <button
               className='mt-3 bg-btnedit hover:bg-btnedithover block w-full text-white p-2 rounded-md uppercase font-bold text-xs' 
               type='button'
-              onClick={() => navigate(`/clientes/editar/${id}`)}
+              onClick={() => navigate(`/editar/${id}`)}
             >Editar</button>
 
           <button
